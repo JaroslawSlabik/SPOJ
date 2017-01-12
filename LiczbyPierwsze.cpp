@@ -33,7 +33,7 @@ int main()
     if(czy_pierwsza(liczba))
       printf("TAK\n");
     else
-      printf("NIE");
+      printf("NIE\n");
   }
 
   return 0;
